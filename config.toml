@@ -8,10 +8,10 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Coimbatore, India"
+address = "Tirupur, India"
 favicon = "/favicon.ico"
-firstName = "Kruba Sagari S"
-lastName = "Thiyagarajan"
+firstName = "Kruba Sagari "
+lastName = "Shanmugam"
 phone = "1-555-555-1234"
 showSocializations = true
 showContact = false
@@ -24,7 +24,7 @@ sections = ["skills","publications","creations","contributions","experience","ed
 trackerID = "XX-123446-01"
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/sathishkumarthiyagarajan/"
+link = "https://www.linkedin.com/in/kruba-sagari-shanmugam-6bbb12326/"
 name = "LinkedIn"
 
 [[params.handles]]
